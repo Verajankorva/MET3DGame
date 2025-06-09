@@ -1,0 +1,11 @@
+Builds/
+Temp/
+Logs/
+Library/
+obj/
+.vs/
+*.vsconfig
+*.csproj
+*.sln
+*.blend?*
+*.dwlt
